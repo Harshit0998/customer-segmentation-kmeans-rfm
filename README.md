@@ -10,7 +10,7 @@ The methodology is inspired by the research paper:
 ---
 
 ## Dataset
-- Online retail transactional [data](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
+- [Online retail transactional data](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
 - Each transaction includes invoice details, purchase quantity, price, invoice date, and customer identifier.
 - Data is preprocessed to compute:
   - **Recency**: Time since last purchase
